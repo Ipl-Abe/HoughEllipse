@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HoughEllipse", "HoughEllipse\HoughEllipse.vcxproj", "{BEBA1D87-7D5E-4D6C-93F0-9C7A97DF06A5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2016_11_7", "..\..\..\..\OneDrive\ドキュメント\Visual Studio 2013\Projects\HoughEllipse\2016_11_7\2016_11_7.vcxproj", "{6D7402D1-34D6-4BF3-97DA-210D7075C6B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{BEBA1D87-7D5E-4D6C-93F0-9C7A97DF06A5}.Debug|Win32.Build.0 = Debug|Win32
 		{BEBA1D87-7D5E-4D6C-93F0-9C7A97DF06A5}.Release|Win32.ActiveCfg = Release|Win32
 		{BEBA1D87-7D5E-4D6C-93F0-9C7A97DF06A5}.Release|Win32.Build.0 = Release|Win32
+		{6D7402D1-34D6-4BF3-97DA-210D7075C6B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D7402D1-34D6-4BF3-97DA-210D7075C6B7}.Debug|Win32.Build.0 = Debug|Win32
+		{6D7402D1-34D6-4BF3-97DA-210D7075C6B7}.Release|Win32.ActiveCfg = Release|Win32
+		{6D7402D1-34D6-4BF3-97DA-210D7075C6B7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
